@@ -1,0 +1,14 @@
+/Users/Dreamer/Workspace/cayzen/Inventory/bin/Debug/netcoreapp2.2/Inventory.deps.json
+/Users/Dreamer/Workspace/cayzen/Inventory/bin/Debug/netcoreapp2.2/Inventory.runtimeconfig.json
+/Users/Dreamer/Workspace/cayzen/Inventory/bin/Debug/netcoreapp2.2/Inventory.runtimeconfig.dev.json
+/Users/Dreamer/Workspace/cayzen/Inventory/bin/Debug/netcoreapp2.2/Inventory.dll
+/Users/Dreamer/Workspace/cayzen/Inventory/bin/Debug/netcoreapp2.2/Inventory.pdb
+/Users/Dreamer/Workspace/cayzen/Inventory/obj/Debug/netcoreapp2.2/Inventory.csprojAssemblyReference.cache
+/Users/Dreamer/Workspace/cayzen/Inventory/obj/Debug/netcoreapp2.2/Inventory.csproj.CoreCompileInputs.cache
+/Users/Dreamer/Workspace/cayzen/Inventory/obj/Debug/netcoreapp2.2/Inventory.RazorAssemblyInfo.cache
+/Users/Dreamer/Workspace/cayzen/Inventory/obj/Debug/netcoreapp2.2/Inventory.RazorAssemblyInfo.cs
+/Users/Dreamer/Workspace/cayzen/Inventory/obj/Debug/netcoreapp2.2/Inventory.AssemblyInfoInputs.cache
+/Users/Dreamer/Workspace/cayzen/Inventory/obj/Debug/netcoreapp2.2/Inventory.AssemblyInfo.cs
+/Users/Dreamer/Workspace/cayzen/Inventory/obj/Debug/netcoreapp2.2/Inventory.RazorTargetAssemblyInfo.cache
+/Users/Dreamer/Workspace/cayzen/Inventory/obj/Debug/netcoreapp2.2/Inventory.dll
+/Users/Dreamer/Workspace/cayzen/Inventory/obj/Debug/netcoreapp2.2/Inventory.pdb
